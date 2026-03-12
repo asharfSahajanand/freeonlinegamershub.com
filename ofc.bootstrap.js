@@ -115,7 +115,7 @@ function gtag_report_conversion(url) {
     }
   };
   gtag("event", "conversion", {
-    send_to: "AW-17978108513/9TzcCJnGo_8bEOHU0PxC",
+    send_to: "AW-17992112682/ppSHCJDriYMcEKq0p4ND",
     value: 0.1,
     currency: "AED",
     event_callback: callback,
@@ -373,7 +373,7 @@ if (typeof gtag === "undefined") {
     },
   });
 
-  gtag("config", "AW-17978108513");
+  gtag("config", "AW-17992112682");
 
   const gaScript = document.createElement("script");
   gaScript.async = true;
